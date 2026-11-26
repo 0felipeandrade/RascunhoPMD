@@ -1,0 +1,86 @@
+Qual a capital da Austrália?;A-Sydney;B-Melbourne;C-Camberra;D-Perth;C;20
+Qual é o maior planeta do Sistema Solar?;A-Saturno;B-Júpiter;C-Netuno;D-Urano;B;10
+Quem pintou a obra Mona Lisa?;A-Leonardo da Vinci;B-Michelangelo;C-Vincent van Gogh;D-Pablo Picasso;A;10
+Qual é o elemento químico representado pelo símbolo Au?;A-Prata;B-Alumínio;C-Argônio;D-Ouro;D;20
+Em que ano o homem pisou na Lua pela primeira vez?;A-1965;B-1969;C-1971;D-1974;B;20
+Qual país tem o formato parecido com uma bota?;A-Espanha;B-Grécia;C-Itália;D-Portugal;C;10
+Quantos ossos tem o corpo humano adulto aproximadamente?;A-206;B-186;C-250;D-300;A;50
+Qual é o rio mais extenso do mundo?;A-Rio Nilo;B-Rio Mississipi;C-Rio Yangtzé;D-Rio Amazonas;D;50
+Quem escreveu o romance Dom Casmurro?;A-José de Alencar;B-Machado de Assis;C-Clarice Lispector;D-Jorge Amado;B;20
+Qual é o menor país do mundo em área territorial?;A-Mônaco;B-San Marino;C-Vaticano;D-Malta;C;20
+Qual vitamina é produzida pelo corpo humano quando exposto ao sol?;A-Vitamina D;B-Vitamina C;C-Vitamina B12;D-Vitamina A;A;10
+Qual é a montanha mais alta do mundo acima do nível do mar?;A-K2;B-Monte Kilimanjaro;C-Monte Everest;D-Aconcágua;C;10
+Em qual continente fica o deserto do Saara?;A-Ásia;B-América do Sul;C-Oceania;D-África;D;10
+Qual o nome do processo pelo qual as plantas produzem seu próprio alimento?;A-Respiração;B-Fotossíntese;C-Fermentação;D-Transpiração;B;10
+Quem foi o primeiro presidente do Brasil?;A-Deodoro da Fonseca;B-Floriano Peixoto;C-Getúlio Vargas;D-Prudente de Morais;A;20
+Qual é a moeda oficial do Japão?;A-Yuan;B-Won;C-Iene;D-Baht;C;20
+Quantos estados possui o Brasil atualmente sem contar o Distrito Federal?;A-24;B-25;C-27;D-26;D;10
+Qual órgão do corpo humano é responsável por bombear o sangue?;A-Pulmão;B-Coração;C-Fígado;D-Rim;B;10
+Qual é o metal líquido à temperatura ambiente?;A-Mercúrio;B-Chumbo;C-Zinco;D-Estanho;A;20
+Quem descobriu a penicilina?;A-Louis Pasteur;B-Marie Curie;C-Alexander Fleming;D-Isaac Newton;C;50
+Qual é o idioma oficial da Áustria?;A-Austríaco;B-Inglês;C-Francês;D-Alemão;D;50
+Em que cidade brasileira está localizado o Cristo Redentor?;A-São Paulo;B-Rio de Janeiro;C-Salvador;D-Belo Horizonte;B;10
+Qual animal é conhecido como o rei da selva?;A-Leão;B-Tigre;C-Onça-pintada;D-Gorila;A;10
+Qual é a fórmula química da água?;A-CO2;B-O2;C-H2O;D-NaCl;C;10
+Quem foi o autor da teoria da relatividade?;A-Nikola Tesla;B-Galileu Galilei;C-Stephen Hawking;D-Albert Einstein;D;20
+Qual é o maior oceano da Terra?;A-Oceano Atlântico;B-Oceano Pacífico;C-Oceano Índico;D-Oceano Ártico;B;20
+Quantos lados tem um hexágono?;A-Seis;B-Cinco;C-Sete;D-Oito;A;10
+Em que ano foi proclamada a Independência do Brasil?;A-1500;B-1889;C-1822;D-1808;C;20
+Qual planeta é conhecido como o Planeta Vermelho?;A-Vênus;B-Mercúrio;C-Saturno;D-Marte;D;10
+Qual é o coletivo de lobos?;A-Cardume;B-Alcateia;C-Enxame;D-Manada;B;20
+Quem pintou o teto da Capela Sistina?;A-Michelangelo;B-Rafael;C-Donatello;D-Botticelli;A;50
+Qual é a capital do Canadá?;A-Toronto;B-Vancouver;C-Ottawa;D-Montreal;C;50
+Quantos minutos há em três horas?;A-120;B-150;C-200;D-180;D;10
+Qual instrumento mede a pressão atmosférica?;A-Termômetro;B-Barômetro;C-Anemômetro;D-Higrômetro;B;100
+Qual é o nome do satélite natural da Terra?;A-Lua;B-Fobos;C-Titã;D-Europa;A;10
+Em qual país surgiram os Jogos Olímpicos da Antiguidade?;A-Itália;B-Egito;C-Grécia;D-China;C;20
+Qual é o animal terrestre mais rápido do mundo?;A-Cavalo;B-Antílope;C-Avestruz;D-Guepardo;D;20
+Quem escreveu O Pequeno Príncipe?;A-Júlio Verne;B-Antoine de Saint-Exupéry;C-Victor Hugo;D-Alexandre Dumas;B;50
+Qual é o gás mais abundante na atmosfera terrestre?;A-Nitrogênio;B-Oxigênio;C-Gás Carbônico;D-Hidrogênio;A;100
+Qual cidade foi destruída pela erupção do vulcão Vesúvio no ano 79 d.C.?;A-Atenas;B-Cartago;C-Pompeia;D-Troia;C;100
+Qual é a cor da esmeralda?;A-Azul;B-Vermelha;C-Amarela;D-Verde;D;10
+Quem foi o criador do personagem Mickey Mouse?;A-Stan Lee;B-Walt Disney;C-Hanna-Barbera;D-Chuck Jones;B;10
+Qual é o maior osso do corpo humano?;A-Fêmur;B-Tíbia;C-Úmero;D-Rádio;A;20
+Em que país fica a cidade de Machu Picchu?;A-Bolívia;B-Chile;C-Peru;D-Colômbia;C;20
+Qual é o resultado de 7 multiplicado por 8?;A-54;B-64;C-48;D-56;D;10
+Qual cientista formulou a lei da gravitação universal?;A-Charles Darwin;B-Isaac Newton;C-Johannes Kepler;D-Michael Faraday;B;50
+Qual é o nome da linha imaginária que divide a Terra nos hemisférios Norte e Sul?;A-Linha do Equador;B-Meridiano de Greenwich;C-Trópico de Capricórnio;D-Trópico de Câncer;A;20
+Quantas teclas tem um piano padrão moderno?;A-76;B-82;C-88;D-92;C;100
+Qual é o menor osso do corpo humano?;A-Martelo;B-Bigorna;C-Falange;D-Estribo;D;100
+Qual navegador português comandou a primeira frota a chegar ao Brasil em 1500?;A-Vasco da Gama;B-Pedro Álvares Cabral;C-Fernão de Magalhães;D-Bartolomeu Dias;B;10
+Qual é a unidade de medida da resistência elétrica?;A-Ohm;B-Volt;C-Ampère;D-Watt;A;50
+Qual país é o maior produtor de café do mundo?;A-Colômbia;B-Vietnã;C-Brasil;D-Etiópia;C;20
+Em que ano caiu o Muro de Berlim?;A-1985;B-1991;C-1987;D-1989;D;100
+Qual é o nome do triângulo que possui todos os lados com medidas diferentes?;A-Equilátero;B-Escaleno;C-Isósceles;D-Retângulo;B;50
+Qual empresa criou o console PlayStation?;A-Sony;B-Nintendo;C-Sega;D-Microsoft;A;10
+Qual classe representa a entidade base do projeto?;A-Usuario;B-Entidade;C-Skin;D-Colecao;B;10
+Em qual pacote ficam as classes que representam os objetos do sistema?;A-visao;B-servico;C-modelo;D-dados;C;10
+Qual interface a classe Entidade implementa?;A-Serializable;B-Comparable;C-Cloneable;D-Runnable;A;20
+Qual informação a classe Entidade armazena diretamente?;A-Nome;B-E-mail;C-Imagem;D-ID;D;10
+De qual classe Usuario herda?;A-Caixa;B-Entidade;C-Colecao;D-Skin;B;10
+Qual atributo de Usuario representa seu tipo de acesso?;A-senha;B-colecao;C-perfil;D-email;C;10
+Qual enumeração define os perfis disponíveis no projeto?;A-Perfil;B-Raridade;C-Categoria;D-TipoSkin;A;10
+Quais valores aparecem na enumeração Perfil?;A-ADMIN e PREMIUM;B-USUARIO e ADMIN;C-COMUM e ADMIN;D-USER e ROOT;B;10
+Qual atributo da classe Skin guarda o endereço da imagem?;A-cadastradaPor;B-raridade;C-jogo;D-imagemUrl;D;10
+Qual atributo da classe Skin identifica o jogo ao qual ela pertence?;A-jogo;B-perfil;C-nota;D-quantidade;A;10
+Quais informações ItemColecao armazena?;A-Usuario e senha;B-Caixa e probabilidade;C-Skin e quantidade;D-Nota e comentário;C;10
+Qual estrutura Colecao utiliza para armazenar seus itens?;A-Map de usuários;B-List de ItemColecao;C-Set de caixas;D-Array de avaliações;B;20
+O que acontece ao adicionar à coleção uma skin que já está nela?;A-A coleção é apagada;B-A quantidade do item aumenta;C-A skin é substituída por uma caixa;D-O usuário é removido;B;20
+Qual informação o método removerItem recebe como parâmetro?;A-ID da skin;B-Nome do usuário;C-Raridade;D-URL da imagem;A;10
+Quais dados uma Avaliacao relaciona?;A-Caixa e raridade;B-Skin e probabilidade;C-Usuario, Skin, nota e comentário;D-Jogo e imagem;C;20
+Como Caixa representa as chances de cada raridade?;A-List de Usuario;B-Map de String para Double;C-Set de Skin;D-Array de imagens;B;20
+Qual deve ser a soma das probabilidades informadas ao criar uma Caixa?;A-50%;B-75%;C-90%;D-100%;D;10
+Como deve ser o valor de cada probabilidade de raridade?;A-Maior que zero;B-Sempre igual a zero;C-Negativo;D-Sempre igual a 100;A;20
+O que a classe Caixa faz com o mapa de probabilidades recebido?;A-Remove todas as entradas;B-Converte em texto;C-Cria uma cópia não modificável;D-Salva diretamente no usuário;C;30
+Qual padrão de criação é utilizado por BancoDados?;A-Factory Method;B-Singleton;C-Observer;D-Strategy;B;20
+O que o método getInstancia de BancoDados retorna?;A-Uma nova instância sempre;B-Uma lista de skins;C-A única instância compartilhada;D-O DAO de caixas;C;20
+Quais tipos de entidade BancoDados registra com DAOs?;A-Usuario, Skin, Avaliacao e Colecao;B-Caixa, Pergunta e Perfil;C-Imagem, Jogo e Raridade;D-Somente Usuario;A;20
+Qual estrutura EntidadeDAO utiliza para guardar as entidades em memória?;A-Queue;B-Set;C-Stack;D-String;B;20
+Como EntidadeDAO monta o nome do arquivo de persistência?;A-nomeDaClasse.json;B-banco.xml;C-dados_ mais nome simples da classe mais .txt;D-skins.csv;C;20
+Qual classe Java é utilizada para gravar objetos no arquivo?;A-ObjectOutputStream;B-Scanner;C-FileReader;D-BufferedWriter;A;20
+Qual classe Java é utilizada para recuperar os objetos serializados?;A-PrintWriter;B-ObjectInputStream;C-FileWriter;D-Formatter;B;20
+Em que ordem o método carregar retorna as entidades?;A-Ordem alfabética do nome;B-Ordem aleatória;C-Ordem decrescente de raridade;D-Ordem crescente de ID;D;20
+Qual verificação o método salvar realiza antes de inserir uma entidade?;A-Verifica se já existe o mesmo ID;B-Verifica a conexão com a API;C-Verifica se a imagem é PNG;D-Verifica a senha do administrador;A;20
+Como o método atualizar substitui uma entidade existente?;A-Apaga todos os arquivos;B-Remove a existente e adiciona a nova;C-Cria outro DAO;D-Altera somente o nome do arquivo;B;20
+Quantas caixas são criadas pelo método listarCaixas da versão consultada?;A-Duas;B-Três;C-Cinco;D-Dez;C;10
+A Caixa Premium está associada a qual jogo?;A-CS2;B-Valorant;C-Fortnite;D-Overwatch 2;B;10
